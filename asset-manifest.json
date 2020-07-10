@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pathology-viewer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pathology-viewer/static/js/main.dc6cb981.chunk.js",
+    "main.js.map": "/pathology-viewer/static/js/main.dc6cb981.chunk.js.map",
+    "runtime-main.js": "/pathology-viewer/static/js/runtime-main.9220f8c9.js",
+    "runtime-main.js.map": "/pathology-viewer/static/js/runtime-main.9220f8c9.js.map",
+    "static/js/2.7e920ebf.chunk.js": "/pathology-viewer/static/js/2.7e920ebf.chunk.js",
+    "static/js/2.7e920ebf.chunk.js.map": "/pathology-viewer/static/js/2.7e920ebf.chunk.js.map",
+    "index.html": "/pathology-viewer/index.html",
+    "precache-manifest.0828696bfb97ffae607f5e5b757b2de5.js": "/pathology-viewer/precache-manifest.0828696bfb97ffae607f5e5b757b2de5.js",
+    "service-worker.js": "/pathology-viewer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pathology-viewer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7e920ebf.chunk.js.LICENSE.txt": "/pathology-viewer/static/js/2.7e920ebf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9220f8c9.js",
+    "static/js/2.7e920ebf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dc6cb981.chunk.js"
+  ]
+}
