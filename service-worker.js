@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pathology-viewer/precache-manifest.0828696bfb97ffae607f5e5b757b2de5.js"
+  "/pathology-viewer/precache-manifest.11189fc6b42865cc64f8f3190eb17bd9.js"
 );
 
 self.addEventListener('message', (event) => {
